@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "5U2UwHL2NCW6A0up0ElTyz0m351GqrwPuLr/5HveCDp0Jges9nlkn+eNATTKWMefZRMGiVvOzPuzH6Ode8oCkw==",
+  "success": true,
+  "projectFilePath": "Y:\\Groups\\Group_3\\מיטלמן  ריקי\\.net\\פרויקט מעודכן\\פרויקט\\project-Riki-Mittelman\\Solid.Core\\Solid.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hitmachut\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\awssdk\\2.3.55.2\\awssdk.2.3.55.2.nupkg.sha512",
+    "C:\\Users\\hitmachut\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'AWSSDK 2.3.55.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "AWSSDK",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

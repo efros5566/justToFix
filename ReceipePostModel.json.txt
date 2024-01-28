@@ -1,0 +1,12 @@
+{
+  
+  "name": "string",
+  "description": "string",
+  "rating": 0,
+  "productsList": [
+    {
+      "productsId": 0,
+      "amount": "string"
+    }
+  ]
+}
